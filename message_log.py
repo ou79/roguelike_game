@@ -67,3 +67,5 @@ class MessageLog:
                 y_offset -= 1
                 if y_offset < 0:
                     return  # No more space to print messages.
+
+
